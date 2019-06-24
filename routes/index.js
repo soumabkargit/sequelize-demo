@@ -1,0 +1,1 @@
+module.exports = app => {("/", (req, res) => res.json({status: "NTask API"}));}
